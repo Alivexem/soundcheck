@@ -44,7 +44,7 @@ let Sonnernotifications = [
     'Sonner It is all good in the end',
     'Sonner No reason for regrets',
     'Sonner I am on my way to save you',
-    'Sonner No  regrets',
+    'Sonner No  regrets all ways',
     'Sonner No reason for regrets even more of me',
     'Sonner No reason for regrets',
 ]

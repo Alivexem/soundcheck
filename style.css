@@ -8,7 +8,8 @@ body {
 
 .butDiv {
     display: flex;
-    column-gap: 7px;
+    column-gap: 15px;
+    margin-top: 10px;
 }
 
 .parentDiv {
@@ -22,17 +23,18 @@ body {
 
 button {
     border-radius: 5px;
-    padding: 7px;
+
     height: 25px;
     width: 150px;
     border: none;
     font-size: 0.7rem;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .sonner {
     background-color: #5237BC;
     color: white;
+    padding: 10px 10px 20px 10px;
  
    
 }
@@ -44,6 +46,7 @@ button {
 .hot {
     background-color: #18A34A;
     color: white;
+    padding: 10px 10px 20px 10px;
     
 }
 
@@ -92,7 +95,7 @@ button {
     background-color: #1F2933;
     display: flex;
     border-radius: 15px;
-    border: 0.1px solid white;
+  
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -117,7 +120,7 @@ button {
     background-color: #1F2933;
     display: flex;
     border-radius: 15px;
-    border: 0.1px solid white;
+ 
     text-align: center;
     top: -5%;
     justify-content: center;
@@ -133,7 +136,7 @@ button {
     background-color: #1F2933;
     display: flex;
     border-radius: 15px;
-    border: 0.1px solid white;
+ 
     text-align: center;
     top: -7%;
     justify-content: center;
