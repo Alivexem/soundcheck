@@ -61,7 +61,7 @@ let hotNotifications = [
 
 let sonnerBtn = document.querySelector('.sonner')
 const sound = new Audio('pop-up-off.mp3')
-
+const hotS = new Audio('pop-down.mp3')
 let hot = document.querySelector('.hot')
 
 hot.addEventListener('click', () => {
@@ -69,10 +69,10 @@ hot.addEventListener('click', () => {
     let top = 0
     
     setTimeout(() => {
-        sound.play()
+        hotS.play()
     },500)
     setTimeout(() => {
-        sound.play()
+        hotS.play()
     },1000)
 
     let interval = setInterval(() => {
